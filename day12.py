@@ -47,19 +47,19 @@ class StudentResult():
         self.marks = list(marks)
         
     def average(self):
+        if len(self.marks)==0:
+            return "Zero Division Error"
         return sum(self.marks) / len(self.marks)
     
     def grade(self):
         avg = self.average()
         
-        if 90 <= avg <= 100:
-            return "A Grade"
-        elif 70 <= avg < 90:
-            return "B Grade"
-        elif 50 <= avg < 70:
-            return "C Grade"
-        else:
-            return "Failed"
+       """ if avg[1]:
+           average=avg[0]
+           if average>=100:
+               return "A+"
+           else:"""
+                    
     
     def display(self):
         return f"name={self.name}, marks={self.marks}, average={self.average()}, grade={self.grade()}"

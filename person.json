@@ -1,0 +1,11 @@
+{
+    "name": "Ruchee",
+    "age": 22,
+    "address": "ktm",
+    "skills": [
+        "python",
+        "php"
+    ],
+    "is_programmar": true,
+    "phone": null
+}
