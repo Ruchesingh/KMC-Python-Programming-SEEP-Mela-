@@ -1,5 +1,5 @@
 first_name,last_name,company_name,address,city,county,state,zip,phone1,phone2,email,web
-James,Butt,"Benton, John B Jr",6649 N Blue Gum St,New Orleans,Orleans,LA,70116,504-621-8927,504-845-1427,jbutt@gmail.com,http://www.bentonjohnbjr.com
+James,Butt,"Benton, John B Jr",6649 N Blue Gum St,,Orleans,LA,70116,504-621-8927,504-845-1427,jbutt@gmail.com,http://www.bentonjohnbjr.com
 Josephine,Darakjy,"Chanay, Jeffrey A Esq",4 B Blue Ridge Blvd,Brighton,Livingston,MI,48116,810-292-9388,810-374-9840,josephine_darakjy@darakjy.org,http://www.chanayjeffreyaesq.com
 Art,Venere,"Chemel, James L Cpa",8 W Cerritos Ave #54,Bridgeport,Gloucester,NJ,8014,856-636-8749,856-264-4130,art@venere.org,http://www.chemeljameslcpa.com
 Lenna,Paprocki,Feltz Printing Service,639 Main St,Anchorage,Anchorage,AK,99501,907-385-4412,907-921-2010,lpaprocki@hotmail.com,http://www.feltzprintingservice.com
@@ -68,7 +68,7 @@ Tawna,Buvens,H H H Enterprises Inc,3305 Nabell Ave #679,New York,New York,NY,100
 Penney,Weight,Hawaiian King Hotel,18 Fountain St,Anchorage,Anchorage,AK,99515,907-797-9628,907-873-2882,penney_weight@aol.com,http://www.hawaiiankinghotel.com
 Elly,Morocco,Killion Industries,7 W 32nd St,Erie,Erie,PA,16502,814-393-5571,814-420-3553,elly_morocco@gmail.com,http://www.killionindustries.com
 Ilene,Eroman,"Robinson, William J Esq",2853 S Central Expy,Glen Burnie,Anne Arundel,MD,21061,410-914-9018,410-937-4543,ilene.eroman@hotmail.com,http://www.robinsonwilliamjesq.com
-Vallie,Mondella,Private Properties,74 W College St,Boise,Ada,ID,83707,208-862-5339,208-737-8439,vmondella@mondella.com,http://www.privateproperties.com
+Vallie,Mondella,Private Properties,74 W College St,Boise,Ada,"ID",83707,208-862-5339,208-737-8439,vmondella@mondella.com,http://www.privateproperties.com
 Kallie,Blackwood,Rowley Schlimgen Inc,701 S Harrison Rd,San Francisco,San Francisco,CA,94104,415-315-2761,415-604-7609,kallie.blackwood@gmail.com,http://www.rowleyschlimgeninc.com
 Johnetta,Abdallah,Forging Specialties,1088 Pinehurst St,Chapel Hill,Orange,NC,27514,919-225-9345,919-715-3791,johnetta_abdallah@aol.com,http://www.forgingspecialties.com
 Bobbye,Rhym,"Smits, Patricia Garity",30 W 80th St #1995,San Carlos,San Mateo,CA,94070,650-528-5783,650-811-9032,brhym@rhym.com,http://www.smitspatriciagarity.com
@@ -164,7 +164,7 @@ Dierdre,Yum,Cummins Southern Plains Inc,63381 Jenks Ave,Philadelphia,Philadelphi
 Larae,Gudroe,Lehigh Furn Divsn Lehigh,6651 Municipal Rd,Houma,Terrebonne,LA,70360,985-890-7262,985-261-5783,larae_gudroe@gmail.com,http://www.lehighfurndivsnlehigh.com
 Latrice,Tolfree,United Van Lines Agent,81 Norris Ave #525,Ronkonkoma,Suffolk,NY,11779,631-957-7624,631-998-2102,latrice.tolfree@hotmail.com,http://www.unitedvanlinesagent.com
 Kerry,Theodorov,Capitol Reporters,6916 W Main St,Sacramento,Sacramento,CA,95827,916-591-3277,916-770-7448,kerry.theodorov@gmail.com,http://www.capitolreporters.com
-Dorthy,Hidvegi,Kwik Kopy Printing,9635 S Main St,Boise,Ada,ID,83704,208-649-2373,208-690-3315,dhidvegi@yahoo.com,http://www.kwikkopyprinting.com
+Dorthy,Hidvegi,Kwik Kopy Printing,9635 S Main St,Boise,Ada,"ID",83704,208-649-2373,208-690-3315,dhidvegi@yahoo.com,http://www.kwikkopyprinting.com
 Fannie,Lungren,Centro Inc,17 Us Highway 111,Round Rock,Williamson,TX,78664,512-587-5746,512-528-9933,fannie.lungren@yahoo.com,http://www.centroinc.com
 Evangelina,Radde,"Campbell, Jan Esq",992 Civic Center Dr,Philadelphia,Philadelphia,PA,19123,215-964-3284,215-417-5612,evangelina@aol.com,http://www.campbelljanesq.com
 Novella,Degroot,"Evans, C Kelly Esq",303 N Radcliffe St,Hilo,Hawaii,HI,96720,808-477-4775,808-746-1865,novella_degroot@degroot.org,http://www.evansckellyesq.com
@@ -332,7 +332,7 @@ Jutta,Amyot,National Medical Excess Corp,49 N Mays St,Broussard,Lafayette,LA,705
 Aja,Gehrett,Stero Company,993 Washington Ave,Nutley,Essex,NJ,7110,973-544-2677,973-986-4456,aja_gehrett@hotmail.com,http://www.sterocompany.com
 Kirk,Herritt,"Hasting, H Duane Esq",88 15th Ave Ne,Vestal,Broome,NY,13850,607-407-3716,607-350-7690,kirk.herritt@aol.com,http://www.hastinghduaneesq.com
 Leonora,Mauson,Insty Prints,3381 E 40th Ave,Passaic,Passaic,NJ,7055,973-412-2995,973-355-2120,leonora@yahoo.com,http://www.instyprints.com
-Winfred,Brucato,Glenridge Manor Mobile Home Pk,201 Ridgewood Rd,Moscow,Latah,ID,83843,208-252-4552,208-793-4108,winfred_brucato@hotmail.com,http://www.glenridgemanormobilehomepk.com
+Winfred,Brucato,Glenridge Manor Mobile Home Pk,201 Ridgewood Rd,Moscow,Latah,"ID",83843,208-252-4552,208-793-4108,winfred_brucato@hotmail.com,http://www.glenridgemanormobilehomepk.com
 Tarra,Nachor,Circuit Solution Inc,39 Moccasin Dr,San Francisco,San Francisco,CA,94104,415-411-1775,415-284-2730,tarra.nachor@cox.net,http://www.circuitsolutioninc.com
 Corinne,Loder,Local Office,4 Carroll St,North Attleboro,Bristol,MA,2760,508-942-4186,508-618-7826,corinne@loder.org,http://www.localoffice.com
 Dulce,Labreche,Lee Kilkelly Paulson & Kabaker,9581 E Arapahoe Rd,Rochester,Oakland,MI,48307,248-357-8718,248-811-5696,dulce_labreche@yahoo.com,http://www.leekilkellypaulsonkabaker.com
@@ -494,7 +494,7 @@ Thaddeus,Ankeny,Atc Contracting,5 Washington St #1,Roseville,Placer,CA,95678,916
 Jovita,Oles,"Pagano, Philip G Esq",8 S Haven St,Daytona Beach,Volusia,FL,32114,386-248-4118,386-208-6976,joles@gmail.com,http://www.paganophilipgesq.com
 Alesia,Hixenbaugh,Kwikprint,9 Front St,Washington,District of Columbia,DC,20001,202-646-7516,202-276-6826,alesia_hixenbaugh@hixenbaugh.org,http://www.kwikprint.com
 Lai,Harabedian,Buergi & Madden Scale,1933 Packer Ave #2,Novato,Marin,CA,94945,415-423-3294,415-926-6089,lai@gmail.com,http://www.buergimaddenscale.com
-Brittni,Gillaspie,Inner Label,67 Rv Cent,Boise,Ada,ID,83709,208-709-1235,208-206-9848,bgillaspie@gillaspie.com,http://www.innerlabel.com
+Brittni,Gillaspie,Inner Label,67 Rv Cent,Boise,Ada,"ID",83709,208-709-1235,208-206-9848,bgillaspie@gillaspie.com,http://www.innerlabel.com
 Raylene,Kampa,Hermar Inc,2 Sw Nyberg Rd,Elkhart,Elkhart,IN,46514,574-499-1454,574-330-1884,rkampa@kampa.org,http://www.hermarinc.com
 Flo,Bookamer,Simonton Howe & Schneider Pc,89992 E 15th St,Alliance,Box Butte,NE,69301,308-726-2182,308-250-6987,flo.bookamer@cox.net,http://www.simontonhoweschneiderpc.com
 Jani,Biddy,Warehouse Office & Paper Prod,61556 W 20th Ave,Seattle,King,WA,98104,206-711-6498,206-395-6284,jbiddy@yahoo.com,http://www.warehouseofficepaperprod.com
